@@ -1,5 +1,5 @@
 ## InteractiveWidgetKit_SwitUI_AppIntent
-| SwiftData Veri Ekle&&Silme&&Düzenleme |
+| Interactive Widget |
 |---------|
 | ![Video 1](https://github.com/user-attachments/assets/22a8dc8d-e506-4db0-96c6-ad950186bbb2) | 
 
