@@ -5,7 +5,7 @@
 
 
  <details>
-    <summary><h2>Uygulamanın Amacı ve Senaryo Mantığı</h2></summary>
+    <summary><h2>Uygulamanın Amacı </h2></summary>
     Proje Amacı
    Bu SwiftUI uygulaması, kullanıcıların etkileşimli widget'lar ile "To-Do Listesi" (Yapılacaklar Listesi) öğelerini takip etmelerini ve tamamlanmış öğeleri işaretlemelerini sağlar. Widget, kullanıcıların günlük görevlerini hızlı bir şekilde gözden geçirmesine ve tamamladıklarında bunları işaretlemelerine olanak tanır. Bu uygulama, aynı zamanda iOS 17'deki WidgetKit özelliklerini kullanarak widget'lar arasında veri paylaşımını ve etkileşimi gösterir
   </details>  
